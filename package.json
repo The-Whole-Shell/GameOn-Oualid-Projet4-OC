@@ -1,0 +1,14 @@
+{
+  "name": "gameon-oualid-projet-openclassroom4",
+  "version": "1.0.0",
+  "description": "Site d'inscription pour un tournoi de jeu vidéo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oualid Chelghoum",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.76.1"
+  }
+}
